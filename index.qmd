@@ -1,7 +1,7 @@
 ---
 title: "Welcome to R-Ladies St. Louis"
-subtitle: "Introduction to ChatGPT for R coding"
-date: "November 30, 2023"
+subtitle: "Introduction to data.table"
+date: "January 16, 2024"
 format: rladies-revealjs
 self-contained: true
 ---
@@ -10,7 +10,7 @@ self-contained: true
 
 -   Have R and RStudio installed on your computer
 
--   Get a free OpenAI ChatGPT account
+-   Install `data.table` and `tidyverse`
 
 
 # What is R-Ladies? {.smaller}
@@ -35,11 +35,11 @@ Co-organizers for **`2023-24`** include:
 -   Crystal Lewis (Freelance Data Management Consultant)\
 -   Laura Rose (Hinge Health)
 
-# 2023 Fall Schedule
+# 2024 Spring Schedule
 
--   **`September 11:`** Project Oriented Workflows with Shannon Pileggi
--   **`November 8:`** Introduction to Network Analysis with Leslie Echols
--   **`Today:`** Introduction to ChatGPT for R Coding with Olivia Weng
+-   **`Today:`** Introduction to data.table with Susanna Supalla
+-   **`TBD:`** Introduction to Quarto with Jadey Ryan
+
 
 # Announcements
 
@@ -76,5 +76,8 @@ Visit **rladies.org** to learn about the mission and global work of R-Ladies
 
 # About tonight's speaker
 
-- Olivia Weng is a doctoral student at Washington University in St. Louis
-- She has expertise in R and data science and is one of a team of peer instructors assisting other graduate students in public health, social work, and social policy with their quantitative work
+Susanna Supalla, PhD, first learned R and started loving data.table as a graduate student in Political Science at the University of Rochester. Since then she has gained over a decade of experience working as a data scientist in political and health tech. Over her career she has built and operationalized dozens of machine learning models predicting individual-level voting and healthcare utilization behavior, designed and analyzed large-scale field experiments testing novel outreach methods, supported development of data visualization and analysis products, and built R packages and data pipelines. 
+
+# About tonight's speaker, cont.
+
+Today Susanna is a Staff Data Scientist at Hinge Health, a digital clinic for joint and muscle care, where she builds predictive models and designs experiments to better reach people most in need of physical therapy. Susanna also authored a chapter in the newly released book, Non-Academic Careers for Quantitative Social Scientists.
