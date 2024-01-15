@@ -2,4 +2,4 @@
 
 See intro slides here: https://rladiesstl.github.io/meetup-jan16-2024/#/title-slide
 
-Link to presentation slide: https://github.com/ssupalla/intro-to-data.table
+Link to presentation slides: https://github.com/ssupalla/intro-to-data.table
