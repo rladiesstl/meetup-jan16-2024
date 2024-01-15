@@ -10,7 +10,9 @@ self-contained: true
 
 -   Have R and RStudio installed on your computer
 
--   Install `data.table` and `tidyverse`
+-   Install `data.table`, `tidyverse`, `tictoc`, and `utils`
+
+-   Download the dataset [here](https://www.dropbox.com/scl/fi/gdvpzggkb0in9yruircpi/contribDB_1980.csv.gz?rlkey=rs07632m813k3g85ndek1z16g&dl=1)
 
 
 # What is R-Ladies? {.smaller}
@@ -38,7 +40,7 @@ Co-organizers for **`2023-24`** include:
 # 2024 Spring Schedule
 
 -   **`Today:`** Introduction to data.table with Susanna Supalla
--   **`TBD:`** Introduction to Quarto with Jadey Ryan
+-   **`TBD:`** Quarto presentation with Jadey Ryan
 
 
 # Announcements
