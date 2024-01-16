@@ -10,7 +10,7 @@ self-contained: true
 
 -   Have R and RStudio installed on your computer
 
--   Install `data.table`, `tidyverse`, `tictoc`, and `utils`
+-   Install `data.table`, `tidyverse`, `tictoc`, and `R.utils`
 
 -   Download the dataset [here](https://www.dropbox.com/scl/fi/gdvpzggkb0in9yruircpi/contribDB_1980.csv.gz?rlkey=rs07632m813k3g85ndek1z16g&dl=1)
 
